@@ -6,3 +6,6 @@ type: topic
 
 award:
   belt: Cerulean
+
+modules:
+  id: elf-crackme
