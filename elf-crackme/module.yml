@@ -1,8 +1,35 @@
 name: ELF CrakeMe
 challenges:
-  - id: level-1-0
-    name: Level 1.0
-    level: 2
+  # - id: level-1-0
+  #   name: Level 1.0
+  #   level: 2
+
+  # - id: level-1-1
+  #   name: Level 1.1
+  #   level: 2
+
+  # - id: level-1-2
+  #   name: Level 1.2
+  #   level: 2
+  # - id: level-2-0
+  #   name: Level 2.0
+  #   level: 2
+
+  # - id: level-2-1
+  #   name: Level 2.1
+  #   level: 3
+
+  # - id: level-2-2
+  #   name: Level 2.2
+  #   level: 3
+
+  # - id: level-3-0
+  #   name: Level 3.0
+  #   level: 4
+
+  # - id: level-3-1
+  #   name: Level 3.1
+  #   level: 4
 
 resources:
    - name: "Linux ELF 可执行文件"
