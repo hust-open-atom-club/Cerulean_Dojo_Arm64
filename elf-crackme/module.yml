@@ -1,0 +1,43 @@
+name: ELF CrakeMe
+challenges:
+  - id: level-1-0
+    name: Level 1.0
+    level: 2
+
+  - id: level-1-1
+    name: Level 1.1
+    level: 2
+
+  - id: level-1-2
+    name: Level 1.2
+    level: 2
+  - id: level-2-0
+    name: Level 2.0
+    level: 2
+
+  - id: level-2-1
+    name: Level 2.1
+    level: 3
+
+  - id: level-2-2
+    name: Level 2.2
+    level: 3
+
+  - id: level-3-0
+    name: Level 3.0
+    level: 4
+
+  - id: level-3-1
+    name: Level 3.1
+    level: 4
+
+resources:
+   - name: "Linux ELF 可执行文件"
+     type: lecture
+     # video: "438064585"
+     # playlist: "BV1mj411M7NZ"
+     slides: 8ix3hf4008d04788944d0826f01cb491639b0
+   - name: "References"
+     type: markdown
+     content: |
+       - [Concrete Value for fields in ELF format](https://github.com/WolfgangSt/libelf/blob/master/lib/elf_repl.h)
