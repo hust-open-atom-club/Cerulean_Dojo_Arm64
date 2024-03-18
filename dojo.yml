@@ -8,4 +8,4 @@ award:
   belt: Cerulean
 
 modules:
-  id: elf-crackme
+  - id: elf-crackme
