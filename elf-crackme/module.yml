@@ -4,14 +4,6 @@ challenges:
     name: Level 1.0
     level: 2
 
-  - id: level-1-1
-    name: Level 1.1
-    level: 2
-
-  - id: level-1-2
-    name: Level 1.2
-    level: 2
-
 resources:
    - name: "Linux ELF 可执行文件"
      type: lecture
