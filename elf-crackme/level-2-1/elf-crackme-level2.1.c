@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
+#include"util.h"
 
 volatile int a __attribute__((section(".data"))) = 1;
 volatile int b __attribute__((section(".data"))) = 7;

@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
+#include"util.h"
 
 void read_flag() {
 	char *command = "cat";
