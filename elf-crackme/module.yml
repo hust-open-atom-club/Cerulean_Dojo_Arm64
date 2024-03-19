@@ -36,7 +36,7 @@ resources:
      type: lecture
      # video: "438064585"
      # playlist: "BV1mj411M7NZ"
-     slides: 8ix3hf4008d04788944d0826f01cb491639b0
+     slides: ELF
    - name: "References"
      type: markdown
      content: |
