@@ -4,8 +4,11 @@ name: 华蓝道馆
 
 type: topic
 
+comparator: 1500
+
 award:
   belt: Cerulean
+
 
 modules:
   - id: elf-crackme
