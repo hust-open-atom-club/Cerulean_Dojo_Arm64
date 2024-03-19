@@ -1,6 +1,6 @@
 TARGET = elf-crackme-level3.0
-CC     = gcc-4.4
-CFLAGS = -Wall -Wextra -Werror -m32
+CC     = gcc
+CFLAGS = -Wall -Wextra -Werror
 INCLUDE = -I ../../include ../../include/util.c
 
 .PHONY: all clean
