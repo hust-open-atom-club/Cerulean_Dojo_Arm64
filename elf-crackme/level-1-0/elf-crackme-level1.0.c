@@ -29,7 +29,9 @@ void read_flag()
 int main(){
 	init();
 	
-	read_flag();		
+	print_desc();
+	read_flag();	
+	print_exit();	
 
 	return 0;
 }
