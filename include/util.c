@@ -114,6 +114,7 @@ int print_image(char * pokemon_name, char * filename)
                         continue;
                 }
                 printf("%s", read_string);
+                usleep(100000);
         }
 
 	printf("\n");
