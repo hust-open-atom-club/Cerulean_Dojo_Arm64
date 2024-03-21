@@ -1,4 +1,4 @@
-name: ELF CrakeMe
+name: ELF 简短篇
 challenges:
   - id: level-1-0
     name: Level 1.0
@@ -40,4 +40,4 @@ resources:
    - name: "References"
      type: markdown
      content: |
-       - [Concrete Value for fields in ELF format](https://github.com/WolfgangSt/libelf/blob/master/lib/elf_repl.h)
+       - [ELF 格式不同字段的具体值](https://github.com/WolfgangSt/libelf/blob/master/lib/elf_repl.h)
