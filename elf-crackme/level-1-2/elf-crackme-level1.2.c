@@ -13,8 +13,9 @@ void init()
 
 int main(){
 	init();
-	
+	print_desc();
 	puts("Please fix me, and after fixing, execute the Python script to obtain the flag.\n");		
+	print_exit();
 
 	return 0;
 }
