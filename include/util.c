@@ -118,6 +118,7 @@ int print_image(char * pokemon_name, char * filename)
         }
 
 	printf("\n");
+        sleep(2);
         
         // print pokemon name
         strcat(pokemon_name, "!");
